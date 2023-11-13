@@ -1,0 +1,26 @@
+.prva-kocka {
+    background-color: wheat;
+    width: 200px;
+    margin-left: 800px;
+    border-radius: 15px;
+    height: 30px;
+}
+.text {
+    margin-left: 50px;
+}
+.druga-kocka{
+    background-color: wheat;
+    width: 125px;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 840px;
+    margin-top: 2px;
+}
+.prvo-dugme {
+    border-radius: 10px;
+    margin-left: 7px;
+    margin-top: 3px;
+}
+.drugo-dugme {
+    border-radius: 10px;
+}
