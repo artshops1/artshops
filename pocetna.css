@@ -1,0 +1,12 @@
+body {
+    background-color: wheat;
+}
+.dugme1 {
+    border-radius: 10px;
+}
+.prvi-kvadrat {
+    background-color: white;
+    border-radius: 10px;
+    width: 130px;
+    height: 40px;
+}

@@ -1,7 +1,10 @@
+body {
+    background-color: #677539;
+}
 .prva-kocka {
     background-color: wheat;
     width: 200px;
-    margin-left: 800px;
+    margin-left: 666px;
     border-radius: 15px;
     height: 30px;
 }
@@ -13,7 +16,7 @@
     width: 125px;
     height: 30px;
     border-radius: 15px;
-    margin-left: 840px;
+    margin-left: 700px;
     margin-top: 2px;
 }
 .prvo-dugme {
