@@ -1,20 +1,20 @@
 body {
     background-color: #677539;
 }
-.prva-kocka {
+.prvi-kvadrat {
     background-color: wheat;
     width: 200px;
-    margin-left: 670px;
+    margin-left: 100px;
     border-radius: 15px;
     height: 30px;
 }
 .text {
-    margin-left: 50px;
+    margin-left: 45px;
 }
-.druga-kocka {
+.drugi-kvadrat {
     background-color: wheat;
     width: 123px;
-    margin-left: 700px;
+    margin-left: 140px;
     border-radius: 15px;
     height: 29px;
     margin-top: 2px;
