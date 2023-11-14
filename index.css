@@ -1,0 +1,24 @@
+.slika-jedan{
+    border: 4px solid black;
+    border-radius: 12px;
+    margin-top: 70px;
+    margin-left: 160px;
+}
+.text1 {
+    margin-left: 40px;
+}
+.text-kvadar {
+    background-color: antiquewhite;
+    width: 400px;
+    height: 60px;
+    margin-left: 180px;
+    border-radius: 20px;
+}
+.telefon {
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+body {
+    background-color: #677539;
+}
